@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #035A8C;
+    color: #D9D404;
+    
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    line-height: 15px;
+}
+
+input {
+    border-radius: 8px;
+    padding: 5px 5px 5px 10px;
+}
+
+.input-area button {
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgb(7, 215, 7);
+    
+}
+
+li {
+    color: aliceblue;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+li button {
+    margin-left: 20px;
+    font-weight: 700;
+    color: red;
+    border: none;
+    background-color: rgba(255, 0, 0, 0);
+}
+
+.done {
+    text-decoration: line-through;
+    
+}
